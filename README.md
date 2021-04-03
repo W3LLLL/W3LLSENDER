@@ -5,4 +5,4 @@ How To Install ?
 3. chmod 777 install
 4. ./install
 
-then you good to go
+All this command should paste on your terminal / putty software
