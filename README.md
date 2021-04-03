@@ -1,6 +1,8 @@
-This is W3LL SENDER Automatic installation tool, you can easly clone it then run these command :
+How To Install ? 
 
-1. chmod 777 install
-2. ./install
+1. git clone https://github.com/W3LLLL/W3LLSENDER.git
+2. cd W3LLSENDER
+3. chmod 777 install
+4. ./install
 
 then you good to go
