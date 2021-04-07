@@ -3,11 +3,12 @@
 
 **Type this command to your terminal/putty software:**
 
-1) _`apt-get install git-core`_
-2) _`git clone https://github.com/W3LLLL/W3LLSENDER.git`_
-3) _`cd W3LLSENDER`_
-4) _`chmod 777 install.sh`_
-5) _`bash install.sh`_
+1) _`apt-get update`_
+2) _`apt-get install git-core`_
+3) _`git clone https://github.com/W3LLLL/W3LLSENDER.git`_
+4) _`cd W3LLSENDER`_
+5) _`chmod 777 install.sh`_
+6) _`bash install.sh`_
 
 <!-- CONTACT -->
 
