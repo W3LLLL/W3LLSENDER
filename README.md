@@ -10,7 +10,7 @@
 5) _`chmod 777 install.sh`_
 6) _`bash install.sh`_
 
-**Note :** _Whenever you logout the ROOT from putty remember to put command_ `cd W3LLSENDER`
+**Note :** _Whenever you logout the ROOT from putty remember to put command_ `cd W3LLSENDER` _when you relogin._
 
 <!-- CONTACT -->
 
