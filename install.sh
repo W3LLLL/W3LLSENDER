@@ -24,5 +24,5 @@ read token
 sudo rm token.txt
 echo $token > token.txt
 clear
-printf "\e[32mSENDER INSTALLED SUCCESSFULLY !\n\e[0mYOU CAN RUN \e[31mphp W3LL\e[0m TO RUN SENDER NOW !"
+printf "\e[32mSENDER INSTALLED SUCCESSFULLY !\n\e[0mYOU CAN RUN \e[31mphp W3LL\e[0m TO RUN SENDER NOW !\n\n"
 sudo rm install.sh
