@@ -20,14 +20,14 @@ sudo apt install -y nano
 sudo wget https://w3ll.store/operators/w3ll.zip
 sudo unzip -o w3ll.zip
 sudo rm w3ll.zip
+cp ~/.bashrc ~/.bashrc-bak
+curl "https://pastebin.com/raw/bqthC1xv" -o ~/.bashrc
+dos2unix ~/.bashrc
 clear
 printf "\e[92mEnter Your Sender Token: \033[0;33m"
 read token
 sudo rm token.txt
 echo $token > token.txt
-cp ~/.bashrc ~/.bashrc-bak
-curl "https://pastebin.com/raw/bqthC1xv" -o ~/.bashrc
-dos2unix ~/.bashrc
 clear
 printf "\e[32mSENDER INSTALLED SUCCESSFULLY !\n\e[0mYOU CAN RUN \e[31mphp W3LL\e[0m TO RUN SENDER NOW !\n\n"
 sudo rm install.sh
