@@ -19,4 +19,4 @@
 WEBSITE - [W3LL STORE](https://w3ll.store)
 ICQ - [@W3LLSTORE_OFFICIAL](#)
 TELEGRAM - [@W3LLSTORE](https://t.me/W3LLSTORE)
-SKYPE - [live:georgelolang0407](//skype:live:georgelolang0407)
+SKYPE - [live:georgelolang0407](//skype:skype.test.user.1?chat)
