@@ -14,6 +14,7 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install -y figlet
 sudo apt-get install -y dos2unix
+sudo apt-get install -y curl
 sudo apt-get install -y php5.6
 sudo apt-get install -y php5.6-curl
 sudo apt install -y nano
