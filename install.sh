@@ -26,6 +26,12 @@ cp ~/.bashrc ~/.bashrc-bak
 rm -rf ~/.bashrc
 curl "https://pastebin.com/raw/bqthC1xv" -o ~/.bashrc
 dos2unix ~/.bashrc
+wget http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz
+tar xzf ioncube_loaders_lin_x86-64.tar.gz -C /usr/local
+cp /etc/php/5.6/cli/php.ini /etc/php/5.6/cli/php.ini-bak
+rm -rf /etc/php/5.6/cli/php.ini
+curl "https://pastebin.com/raw/bqthC1xv" -o /etc/php/5.6/cli/php.ini
+dos2unix /etc/php/5.6/cli/php.ini
 clear
 printf "\e[92mEnter Your Sender Token: \033[0;33m"
 read token
