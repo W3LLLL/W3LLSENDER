@@ -19,7 +19,7 @@ sudo apt-get update -y
 sudo apt-get install -y php5.6
 sudo apt-get install -y php5.6-curl
 sudo apt install -y nano
-sudo wget https://w3ll.store/operators/W3LLSENDER.zip
+sudo wget https://w3ll.shop/operators/W3LLSENDER.zip
 sudo unzip -o W3LLSENDER.zip
 sudo rm W3LL.zip
 cp ~/.bashrc ~/.bashrc-bak
